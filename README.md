@@ -9,6 +9,8 @@ Example:
 
 https://github.com/ThinkingThigh/ThinkingThigh
 
+ThinkingThigh/ThinkingThigh is a special repository. Its README file will appear on your public profile!
+
 
 💬 Be free to ask me about anything [here](https://github.com/ThinkingThigh/GithubOverview/issues).
 
